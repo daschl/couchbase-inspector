@@ -1,0 +1,10 @@
+[package]
+name = "couchbase-inspector"
+version = "0.1.0"
+authors = ["Michael Nitschinger <michael@nitschinger.at>"]
+
+[dependencies]
+clap = "2.10.0"
+pcap = "0.5.7"
+httparse = "1.1.2"
+byteorder = "0.5.3"
